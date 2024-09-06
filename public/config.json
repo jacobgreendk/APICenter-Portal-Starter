@@ -1,5 +1,5 @@
 {
-  "dataApiHostName": "<service name>.data.<region>.azure-apicenter.ms/workspaces/default",
+  "dataApiHostName": "market-api-center.data.westeurope.azure-apicenter.ms/workspaces/default",
   "title": "API portal",
   "authentication": {
       "clientId": "2752484c-514d-4efa-8908-5ddb08bae905",
