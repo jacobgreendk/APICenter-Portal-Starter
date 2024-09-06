@@ -1,6 +1,6 @@
 {
   "dataApiHostName": "market-api-center.data.westeurope.azure-apicenter.ms/workspaces/default",
-  "title": "API portal",
+  "title": "Andel API portal",
   "authentication": {
       "clientId": "2752484c-514d-4efa-8908-5ddb08bae905",
       "tenantId": "a6096808-b971-440e-99ff-6ea37b046566",
