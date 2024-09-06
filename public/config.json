@@ -1,0 +1,11 @@
+{
+  "dataApiHostName": "<service name>.data.<region>.azure-apicenter.ms/workspaces/default",
+  "title": "API portal",
+  "authentication": {
+      "clientId": "2752484c-514d-4efa-8908-5ddb08bae905",
+      "tenantId": "a6096808-b971-440e-99ff-6ea37b046566",
+      "scopes": ["https://azure-apicenter.net/user_impersonation"],
+      "authority": "https://login.microsoftonline.com/"
+  },
+  "scopingFilter": ""
+}
